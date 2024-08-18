@@ -1,0 +1,214 @@
+ 
+ *{
+    margin: 0;
+    padding: 0;
+ }
+ .topnav{
+   background-color: #EC6C5A ;
+   height: 40px;
+   width: 100%;
+   
+ }
+ p{
+   padding-top: 5px;
+ }
+ .display-1 h2 {
+  font-size: calc(1.625rem + 4.5vw);
+
+  line-height: 1.2;}
+  .btn{
+    background-color: #46ad76 !important;
+    border-color: #46ad76 !important;
+  }
+  /* #form{
+    width:70%;
+  } */
+ 
+    .col-md-3 {
+      flex: 0 0 auto;
+      width: 25%;
+      border-radius: 8%;
+      /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
+   }
+   .feature-title{
+    color: #EC6C5A;
+   }
+   .col-md-3 :hover{
+    background-color: #46ad76;
+    color: white !important;
+    transition: all 0.3s ease-in;
+     
+   }
+  .feature-box{
+    padding-top: 50px;
+    gap: 1.5rem;
+  
+  
+}
+.feature-item {
+  box-shadow: 4px 4px 10px rgba(150, 150, 150, 0.192);
+ 
+  cursor: pointer;
+}
+.text{
+  color: #EC6C5A !important;
+}
+ .btn {
+  border-radius: 30px!important;
+  
+ }
+ .padding-medium{
+  padding-top: 50px;
+ }
+ .heading{
+  color: #EC6C5A;
+
+ } 
+ .primary{
+  width: auto;
+  height: auto; 
+  background-color:#d4f2e2;
+ 
+ }
+ .primary:hover{
+      background-color: rgb(10, 142, 10);
+      color: white;
+ }
+ .secondary{
+  height: auto;
+  width: auto;
+  background-color: #f9e1bb;
+ }
+ .secondary:hover{
+  background-color: #f8be60;
+  color: white;
+  
+ }
+ .teritary{
+  background-color: #eda79e;
+ }
+ .teritary:hover{
+  background-color: #EC6C5A;
+  color: white;
+ }
+ .gray{
+  background-color: gainsboro;
+ }
+ .gray:hover{
+  background-color: gray;
+ }
+ .red{
+  background-color: #eda79e;
+
+ }
+  .red:hover{
+    background-color:#EC6C5A;
+  }
+  .yellow{
+    background-color: #f9e1bb;
+  }
+  .yellow:hover{
+    background-color: #f8be60;
+  }
+  .info{
+    color: #EC6C5A;
+  }
+  .course-hours{
+    display: flex;
+    flex-direction: row;
+  }
+ .card-text{
+  color: rgb(118, 116, 116) !important;
+ }
+ h5:hover{
+  color: #46ad76;
+  transition: all 0.3s  ease-in ;
+  cursor: pointer;
+ }
+ .card{
+  box-shadow: 4px 4px 10px rgba(150, 150, 150, 0.192);
+ 
+ }
+ .carousel-item{
+  height: 100vh;
+  background-color:#cdeadb;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+ }
+ .reviews{
+
+  color: #EC6C5A;
+ }
+ .fatma{
+  color: black;
+ }
+ .reviewss{
+  gap: 2rem;
+ }
+ .text-muted{
+  width: 15%;
+ }
+ .reviewsss{
+  gap: 4rem;
+ }
+ .col-3{
+  gap: 1.2rem
+  ;
+  padding-bottom: 5px;}
+  .col-3 img{
+    width: auto;
+  }
+  .carousel-control-prev{
+    color:black !important;
+  }
+  .carousel-control-next{
+    color: black !important;
+  }
+  .zoom-effect{
+    transition: transform .3s;
+    
+  }
+  .zoom-effect:hover{
+    transform: scale(1.1); 
+    overflow: hidden;
+  }
+  .ps-4 p {
+    gap: 1.5rem;
+    
+  }
+  .align-items-center{
+    display: flex;
+    align-items: center !important;
+  
+  }
+  .row{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .first{
+    margin-left: 15px !important;
+  }
+  #Offer{
+    background-color:#f9e1bb;
+   height: 50vh;
+   margin-top: 50px;
+  }
+  footer{
+    margin-top: 100px;
+  }
+  .footer-link{
+    text-decoration: none;
+    color: black;
+  }
+  .footer-link:hover{
+    color: #46ad76;
+  }
+  #footer-bottom{
+    unicode-bidi: isolate;
+    margin-top: 100px;
+  }
+  #footer-bottom a{
+    color: black;
+  }
